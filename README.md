@@ -200,5 +200,31 @@
         <li><a href="https://www.youtube.com/watch?v=9SGDpanrc8U" target="_blank">Spring Boot Tutorial | Amigoscode (YouTube)</a></li>
         <li><a href="https://www.baeldung.com/spring-boot" target="_blank">Spring Boot | Baeldung</a></li>
     </ul>
+     <h2>15. Advanced Java (JPA, Hibernate, Maven)</h2>
+    <h3>Topics:</h3>
+    <ul>
+        <li>Java Persistence API (JPA)</li>
+        <li>Hibernate ORM Framework</li>
+        <li>Using Maven for Java Projects</li>
+    </ul>
+    <h3>Resources:</h3>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=d8MJOaZ3M7E" target="_blank">Hibernate & JPA | Telusko (YouTube)</a></li>
+        <li><a href="https://www.baeldung.com/hibernate-tutorial" target="_blank">Java Hibernate Tutorial | Baeldung</a></li>
+        <li><a href="https://www.geeksforgeeks.org/maven/" target="_blank">Maven in Java | GeeksforGeeks</a></li>
+    </ul>
+    <h2>16. Java Design Patterns</h2>
+    <h3>Topics:</h3>
+    <ul>
+        <li>Singleton</li>
+        <li>Factory</li>
+        <li>Builder</li>
+        <li>Observer</li>
+    </ul>
+    <h3>Resources:</h3>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=NU_1StN5Tkk" target="_blank">Design Patterns in Java | Telusko (YouTube)</a></li>
+        <li><a href="https://www.geeksforgeeks.org/design-patterns-in-java/" target="_blank">Java Design Patterns | GeeksforGeeks</a></li>
+    </ul>
 
-   
+
