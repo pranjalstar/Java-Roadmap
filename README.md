@@ -163,10 +163,42 @@
         <li><a href="https://www.youtube.com/watch?v=aUBKlTo8FzI" target="_blank">JDBC Tutorial for Beginners | Telusko (YouTube)</a></li>
         <li><a href="https://www.tutorialspoint.com/jdbc/index.htm" target="_blank">Java JDBC | TutorialsPoint</a></li>
     </ul>
- <h2>12. Java Networking</h2>
+<h2>12. Java Networking</h2>
     <h3>Topics:</h3>
     <ul>
         <li>Sockets</li>
         <li>Server-Client Architecture</li>
+        <li>Datagram</li>
+    </ul>
+    <h3>Resources:</h3>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=nlRLvO_BpYI" target="_blank">Java Networking | CodeWithHarry (YouTube)</a></li>
+        <li><a href="https://www.javatpoint.com/java-networking" target="_blank">Java Networking | Javatpoint</a></li>
     </ul>
 
+<h2>13. Java Swing (GUI)</h2>
+    <h3>Topics:</h3>
+    <ul>
+        <li>Introduction to Swing</li>
+        <li>JFrame, JPanel, JButton, JTextField</li>
+        <li>Event Handling</li>
+    </ul>
+    <h3>Resources:</h3>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=Kmgo00avvEw" target="_blank">Java Swing Tutorial | BroCode (YouTube)</a></li>
+        <li><a href="https://www.geeksforgeeks.org/swing-in-java/" target="_blank">Java Swing | GeeksforGeeks</a></li>
+    </ul>
+ <h2>14. Java Frameworks (Spring Boot)</h2>
+    <h3>Topics:</h3>
+    <ul>
+        <li>Introduction to Spring Boot</li>
+        <li>Dependency Injection</li>
+        <li>REST APIs with Spring Boot</li>
+    </ul>
+    <h3>Resources:</h3>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=9SGDpanrc8U" target="_blank">Spring Boot Tutorial | Amigoscode (YouTube)</a></li>
+        <li><a href="https://www.baeldung.com/spring-boot" target="_blank">Spring Boot | Baeldung</a></li>
+    </ul>
+
+   
