@@ -1,5 +1,10 @@
 <body>
     <h1>Java Roadmap: Basic to Advanced</h1>
+        <h3>Resources:</h3>
+    <ul>
+        <li><a href="https://superprofile.bio/vp/653e5ee8423d4e001eeee3ed">Java-Handwritten-Notes</a></li>
+        
+ </ul>
     <ol>
         <li>
             <h2>1. Introduction to Java</h2>
