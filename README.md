@@ -139,8 +139,7 @@
         <li><a href="https://www.youtube.com/watch?v=YV2SaMhsBiY" target="_blank">Java 8 Features | JavaBrains (YouTube)</a></li>
         <li><a href="https://www.baeldung.com/java-8-new-features" target="_blank">Java 8 Features | Baeldung</a></li>
     </ul>
-
-    <h2>10. Java Generics</h2>
+     <h2>10. Java Generics</h2>
     <h3>Topics:</h3>
     <ul>
         <li>Generic Methods and Classes</li>
@@ -152,8 +151,7 @@
         <li><a href="https://www.youtube.com/watch?v=otCpCn0l4Wo" target="_blank">Generics in Java | BroCode (YouTube)</a></li>
         <li><a href="https://www.baeldung.com/java-generics" target="_blank">Java Generics | Baeldung</a></li>
     </ul>
-
-    <h2>11. Database Connectivity (JDBC)</h2>
+<h2>11. Database Connectivity (JDBC)</h2>
     <h3>Topics:</h3>
     <ul>
         <li>Introduction to JDBC</li>
@@ -165,11 +163,10 @@
         <li><a href="https://www.youtube.com/watch?v=aUBKlTo8FzI" target="_blank">JDBC Tutorial for Beginners | Telusko (YouTube)</a></li>
         <li><a href="https://www.tutorialspoint.com/jdbc/index.htm" target="_blank">Java JDBC | TutorialsPoint</a></li>
     </ul>
-
-    <h2>12. Java Networking</h2>
+ <h2>12. Java Networking</h2>
     <h3>Topics:</h3>
     <ul>
         <li>Sockets</li>
         <li>Server-Client Architecture</li>
     </ul>
-    
+
